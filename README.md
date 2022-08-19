@@ -1,4 +1,9 @@
-## Con 16 For 16 Dex 16 Wis 16 Int 16 Car 16
+😄 Alan Martins
+Pessoa apaixonada por tecnologia desde seu primeiro IBM XT 286.
+
+"Talk is cheap show me the code "
+-  Linus Torvalds
+
 <div align="center">
   <a href="https://github.com/Alanmc021">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Alanmc021&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
