@@ -1,4 +1,4 @@
-😄 Alan Martins<BR>
+😄 <B>Alan Martins</B><BR><BR>
 Person passionate about technology since his first IBM XT 286 U+1F5A5 :)
 
 "Talk is cheap show me the code "
