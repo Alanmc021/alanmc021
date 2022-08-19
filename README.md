@@ -1,8 +1,8 @@
 😄 Alan Martins
-#Pessoa apaixonada por tecnologia desde seu primeiro IBM XT 286.
+Pessoa apaixonada por tecnologia desde seu primeiro IBM XT 286.
 
-#"Talk is cheap show me the code "
-#-Linus Torvalds
+"Talk is cheap show me the code "
+-Linus Torvalds
 
 <div align="center">
   <a href="https://github.com/Alanmc021">
